@@ -18,7 +18,6 @@ Full-stack Web Developer leveraging product strategy knowledge to build user-foc
 | Handlebars           | MySQL/Sequelize      |
 | Foundation Framework | Heroku               |
 | Bootstrap Framework  | MongoDB              |
-| -------------------- | -------------------- |
 | **Coming soon**      | **in Bootcamp:**     |
 | -------------------- | -------------------- |
 | React                | Webpack              |
