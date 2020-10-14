@@ -14,13 +14,12 @@ Full-stack Web Developer leveraging product strategy knowledge to build user-foc
 | JavaScript & jQuery  | Node.js              |
 | HTML                 | Git                  |
 | CSS                  | Express              |
+| React                | Heroku               |
 | AJAX & API           | Mongoose & IndexedDB |
 | Handlebars           | MySQL/Sequelize      |
-| Foundation Framework | Heroku               |
-| Bootstrap Framework  | MongoDB              |
-| **Coming soon**      | **in Bootcamp:**     |
-| -------------------- | -------------------- |
-| React                | Webpack              |
+| Foundation Framework | MongoDB              |
+| Bootstrap Framework  | Webpack              |
+
 
 ### About Me
 I am a full-stack web developer combining business education and experience with technical web development skills to build powerful, user-focused web-apps. Graduated with honors from the Master of Science in Entrepreneurship program at the University of Washington before launching my first startup, Lonely Produce. Now pursuing a certificate in full-stack web development from the University of Washington, utilizing primarily Javascript for both front-end and back-end programming. I pick up new concepts quickly and use my strategic thinking skills to keep projects focused on solving the customer’s problem. Coming from a family of developers, I spent a long time trying to break the mold before realizing that writing code is in my blood. I truly love the precise, tangibly logical nature of software development. I look forward to bringing my business sense and passion for problem-solving to bear in building the next big thing.
