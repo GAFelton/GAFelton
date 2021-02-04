@@ -4,7 +4,7 @@
 
 ### Summary
 
-Full-stack Web Developer leveraging product strategy knowledge to build user-focused web-apps. Previous e-commerce startup co-founder and MS in Entrepreneurship. Quick-learning problem-solver with a multidisciplinary background and a knack for getting to the essence of decisions. Collaborative communicator.
+Technical Integration Engineer implementing the future of healthcare at Bright.md. Previous web development coding bootcamp, e-commerce startup co-founder, and MS in Entrepreneurship. Quick-learning problem-solver with a multidisciplinary background and a knack for getting to the essence of decisions. Collaborative communicator.
 
 [Link to Portfolio](https://www.gfelton.com/)
 
