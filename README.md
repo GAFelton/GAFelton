@@ -1,7 +1,5 @@
 # George Felton
 
-[![GAFelton's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GAFelton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Summary
 
 Technical Integration Engineer implementing the future of healthcare at Bright.md. Previous web development coding bootcamp, e-commerce startup co-founder, and MS in Entrepreneurship. Quick-learning problem-solver with a multidisciplinary background and a knack for getting to the essence of decisions. Collaborative communicator.
@@ -26,8 +24,4 @@ Technical Integration Engineer leveraging business education and experience comb
 
 In my free time, I can be found hiking, playing board games, cooking, and jamming on new startup ideas.
 
-### GitHub Stats
-
-[![GAFelton's github stats](https://github-readme-stats.vercel.app/api?username=GAFelton&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-*[Stats Cards generated using Anuraghazra's README Stats Generator](https://github.com/anuraghazra/github-readme-stats)*
+[![GAFelton's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GAFelton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
